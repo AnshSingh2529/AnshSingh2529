@@ -4,26 +4,17 @@
 
 ---
 
-## 🔍 Interests
-- 💻 Fullstack Web Development
-- 📱 Android App Development (Kotlin/Java)
-- 🤖 AI & Backend Engineering (Python/Django)
-- ⚙️ System Design & DevOps
-- 📈 Continuous Learning & Growth Mindset
-
----
-
 ## 🌱 Currently Working On
-- 📱 Android Projects using Kotlin/Java
-- 🧠 Data Structures & Algorithms (Java)
-- 🐍 Backend APIs with Python & Django
-- 🗃️ MySQL + Database Design
-- 🚀 Planning DevOps, AI/ML, and Fullstack Project Integration
+- 🐍 Backend APIs with Python(AI/ML) & Django
+- 🗃️ MySQL + MongoDB + PostgreSQL 
+- 🚀 Planning DevOps, and Fullstack Project Integration(React + Nodejs)
+- 🧠 Data Structures & Algorithms
+- 📱 App Development Flutter(Dart)
 
 ---
 
 ## 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-singh-602455281/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-singh-349397315/)
 - 🛠️ Check out my pinned projects below to see what I’m building!
 
 ---
