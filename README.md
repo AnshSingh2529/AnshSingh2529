@@ -9,7 +9,6 @@
 - 🗃️ MySQL + MongoDB + PostgreSQL 
 - 🚀 Planning DevOps, and Fullstack Project Integration(React + Nodejs)
 - 🧠 Data Structures & Algorithms
-- 📱 App Development Flutter(Dart)
 
 ---
 
