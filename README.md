@@ -5,10 +5,9 @@
 ---
 
 ## 🌱 Currently Working On
-- 🐍 Backend APIs with Python(AI/ML) & Django
-- 🗃️ MySQL + MongoDB + PostgreSQL 
-- 🚀 Planning DevOps, and Fullstack Project Integration(React + Nodejs)
-- 🧠 Data Structures & Algorithms
+- 🐍 Backend APIs with Python(Django-Rest-Framework, FastAPI)
+- 🗃️ MongoDB + PostgreSQL
+- Frontend - Reactjs(Web) / ReactNative(Mobile) applications
 
 ---
 
