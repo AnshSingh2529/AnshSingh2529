@@ -1,13 +1,12 @@
 # 👋 Hi, I’m Ansh Singh
-
-🎯 Passionate about technology, development, and building impactful solutions that scale.
-
+## Exploring Computer Science and Technology 
 ---
 
 ## 🌱 Currently Working On
+- 🧠->🖥 Artificial Intelligence and Machine Learning
 - 🐍 Backend APIs with Python(Django-Rest-Framework, FastAPI)
-- 🗃️ MongoDB + PostgreSQL
-- Frontend - Reactjs(Web) / ReactNative(Mobile) applications
+- 🗃️ SQL
+- Frontend - Reactjs(Web),TailwindCss, HTML5, CSS3
 
 ---
 
