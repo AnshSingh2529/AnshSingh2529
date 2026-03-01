@@ -52,5 +52,5 @@ I build scalable backend systems and production-ready APIs focused on performanc
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/your-link-here/](https://www.linkedin.com/in/ansh-singh-349397315/ 
+LinkedIn: [https://www.linkedin.com/in/ansh-singh-349397315/]
 Email: anshsingh2529@gmail.com
