@@ -1,34 +1,6 @@
-# Ansh Singh  
-Backend (Python + AI) Engineer
+# Backend (Python + AI) Engineer
 
 I build scalable backend systems and production-ready APIs focused on performance, reliability, and clean architecture.
-
----
-
-## Core Expertise
-
-**Backend**
-- Python
-- Django & Django REST Framework
-- FastAPI
-- RESTful API Design
-- JWT / OAuth2 Authentication
-- Async Processing
-
-**Databases**
-- PostgreSQL
-- Query Optimization
-- Indexing & Performance Tuning
-- Schema Design & Migrations
-
-**Infrastructure**
-- Redis (Caching)
-- Celery (Background Tasks)
-- Docker
-- CI/CD Workflows
-- Linux
-
----
 
 ## What I Deliver
 
